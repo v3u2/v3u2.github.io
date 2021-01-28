@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://v3u2.github.io</id>
     <title>闲言碎语</title>
-    <updated>2021-01-28T06:10:58.715Z</updated>
+    <updated>2021-01-28T07:01:32.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://v3u2.github.io"/>
     <link rel="self" href="https://v3u2.github.io/atom.xml"/>
@@ -11,11 +11,24 @@
     <icon>https://v3u2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 闲言碎语</rights>
     <entry>
+        <title type="html"><![CDATA[这20个Windows自带的小功能，比付费软件还好用！]]></title>
+        <id>https://v3u2.github.io/FaEGg615p/</id>
+        <link href="https://v3u2.github.io/FaEGg615p/">
+        </link>
+        <updated>2021-01-28T06:49:32.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[需求获取]]></title>
         <id>https://v3u2.github.io/r2PsU8MSX/</id>
         <link href="https://v3u2.github.io/r2PsU8MSX/">
         </link>
         <updated>2021-01-28T02:42:41.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="拜访用户时通过哪些问题能快速了解用户现状挖掘用户需求">拜访用户时，通过哪些问题能快速了解用户现状？挖掘用户需求？</h2>
+<figure data-type="image" tabindex="1"><img src="http://sunjunyu.cn/part-00731-1092.jpg" alt="" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="拜访用户时通过哪些问题能快速了解用户现状挖掘用户需求">拜访用户时，通过哪些问题能快速了解用户现状？挖掘用户需求？</h2>
+<figure data-type="image" tabindex="1"><img src="http://sunjunyu.cn/part-00731-1092.jpg" alt="" loading="lazy"></figure>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gridea远程连接配置信息]]></title>
